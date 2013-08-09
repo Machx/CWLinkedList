@@ -2,6 +2,10 @@
 
 CWLinkedList is a Objective-C implementation of a doubly linked list I did for fun because I had implemented Linked Lists in other languages, but never pure Objective-C.
 
+##Unit Tests
+
+To run the unit tess you will need to link against [Specta](https://github.com/specta/specta) and [Expecta](https://github.com/specta/expecta/) in your unit test bundle.
+
 ##License
 
 CWLinkedList is licensed under the BSD License
